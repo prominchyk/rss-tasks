@@ -1,0 +1,1 @@
+export const CHARACTER_API = 'https://rickandmortyapi.com/api/character';

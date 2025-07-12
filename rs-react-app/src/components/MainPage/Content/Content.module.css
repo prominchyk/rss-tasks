@@ -1,0 +1,27 @@
+.contentWrapper {
+  width: 100%;
+}
+
+.contentWrapper table {
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 70%;
+  border: 1px solid darkgrey;
+  border-collapse: collapse;
+}
+
+.contentWrapper table th,
+.contentWrapper table td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid darkgrey;
+}
+
+.noContent {
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 150px;
+  font-size: 1.8em;
+  color: darkgray;
+}
